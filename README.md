@@ -1,8 +1,20 @@
+<h1 align="center">Hi 👋, I'm Mashroof</h1>
+<h3 align="center">A passionate Web developer from India</h3>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Mashroof from Kerala,India<br><br>- I'm a first year BCA student.<br>- I'm interested in learning about web development.<br>- I'm currently working on some projects using HTML, CSS, JavaScript and Python.<br>- I'm always eager to learn new skills and technologies and technologies to enhance my programming abilities</p>
+I'm Mashroof from **Kerala,India**
+- I'm a first year **BCA student.**
+- I'm interested in learning about **web development**.
+- Ask me about **Html, Javascript, Css, Nodejs, Python**
+- I'm currently working on some projects using **HTML, CSS, JavaScript and Python**.
+- I'm always eager to learn new skills and technologies and technologies to enhance my programming abilities
 
 ###
 
@@ -32,6 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  
 </div>
 
 ###
