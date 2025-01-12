@@ -6,18 +6,6 @@
 </div>
 
 ###
-
-- I'm a first year **BCA student.**
-- I'm interested in learning about **web development**.
-- Ask me about **Html, Javascript, Css, Nodejs, Python**
-- I'm currently working on some projects using **HTML, CSS, JavaScript and Python**.
-- I'm always eager to learn new skills and technologies and technologies to enhance my programming abilities
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
