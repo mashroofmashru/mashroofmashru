@@ -1,15 +1,14 @@
+```
+              ███╗   ███╗ █████╗ ███████╗██╗  ██╗██████╗  ██████╗  ██████╗ ███████╗    ██████╗ ██████╗
+              ████╗ ████║██╔══██╗██╔════╝██║  ██║██╔══██╗██╔═══██╗██╔═══██╗██╔════╝    ██╔══██╗██╔══██╗
+              ██╔████╔██║███████║███████╗███████║██████╔╝██║   ██║██║   ██║█████╗      ██████╔╝██████╔╝
+              ██║╚██╔╝██║██╔══██║╚════██║██╔══██║██╔══██╗██║   ██║██║   ██║██╔══╝      ██╔═══╝ ██╔═══╝
+              ██║ ╚═╝ ██║██║  ██║███████║██║  ██║██║  ██║╚██████╔╝╚██████╔╝██║         ██║     ██║
+              ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝         ╚═╝     ╚═╝
+```
+
 <div align="center">
-
-```
-███╗   ███╗ █████╗ ███████╗██╗  ██╗██████╗  ██████╗  ██████╗ ███████╗    ██████╗ ██████╗
-████╗ ████║██╔══██╗██╔════╝██║  ██║██╔══██╗██╔═══██╗██╔═══██╗██╔════╝    ██╔══██╗██╔══██╗
-██╔████╔██║███████║███████╗███████║██████╔╝██║   ██║██║   ██║█████╗      ██████╔╝██████╔╝
-██║╚██╔╝██║██╔══██║╚════██║██╔══██║██╔══██╗██║   ██║██║   ██║██╔══╝      ██╔═══╝ ██╔═══╝
-██║ ╚═╝ ██║██║  ██║███████║██║  ██║██║  ██║╚██████╔╝╚██████╔╝██║         ██║     ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝         ╚═╝     ╚═╝
-
-```
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Graduate+In+Bachelor+of+Computer+Applications;MERN+Stack+%7C+Full-Stack+%7C+Backend;Building+clean%2C+functional+software+%F0%9F%9F%A2;Open+to+internships+%26+fresher+roles+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
@@ -123,16 +122,6 @@ const current = {
 
 ---
 
-## `> activity.graph`
-
-<div align="center">
-
-[![Mashroof PP's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mashroofmashru&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## `> contact.init()`
 
 ```javascript
@@ -145,13 +134,6 @@ const contact = {
 
 console.log("Let's build something cool together!");
 ```
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/WebSite-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://mashroof.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mashroof%20PP-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=161b22)](https://linkedin.com/in/mashroof-mashru)
-
-</div>
 
 ---
 
