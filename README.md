@@ -1,244 +1,160 @@
-<h1 align="center">Hi, I'm Mashroof PP 👋</h1>
+<div align="center">
 
-<h3 align="center">MERN Stack Developer</h3>
+```
+███╗   ███╗ █████╗ ███████╗██╗  ██╗██████╗  ██████╗  ██████╗ ███████╗    ██████╗ ██████╗
+████╗ ████║██╔══██╗██╔════╝██║  ██║██╔══██╗██╔═══██╗██╔═══██╗██╔════╝    ██╔══██╗██╔══██╗
+██╔████╔██║███████║███████╗███████║██████╔╝██║   ██║██║   ██║█████╗      ██████╔╝██████╔╝
+██║╚██╔╝██║██╔══██║╚════██║██╔══██║██╔══██╗██║   ██║██║   ██║██╔══╝      ██╔═══╝ ██╔═══╝
+██║ ╚═╝ ██║██║  ██║███████║██║  ██║██║  ██║╚██████╔╝╚██████╔╝██║         ██║     ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝         ╚═╝     ╚═╝
 
-<p align="center">
-  Building responsive web applications, RESTful APIs, and practical full-stack solutions.
-</p>
+```
 
-<p align="center">
-  📍 Kozhikode, Kerala &nbsp;|&nbsp;
-  🎓 BCA — SES College, Sreekandapuram ('26)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Graduate+In+Bachelor+of+Computer+Applications;MERN+Stack+%7C+Full-Stack+%7C+Backend;Building+clean%2C+functional+software+%F0%9F%9F%A2;Open+to+internships+%26+fresher+roles+%E2%9C%A8)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://mashroof.me">🌐 Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/mashroof-mashru">💼 LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:mashroofvlk@gmail.com">📧 Email</a>
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+```bash
+visitor@github:~$ cat ./about_me.txt
 
-I'm a **MERN Stack Developer** with hands-on experience building full-stack web applications using **JavaScript, React, Node.js, Express.js, and MongoDB**.
-
-My development experience includes:
-
-* 🔧 Building **RESTful APIs** with Node.js and Express.js
-* 🔐 Implementing **JWT authentication and authorization**
-* 🏗️ Applying **MVC architecture** in full-stack applications
-* 🗄️ Designing MongoDB schemas and implementing CRUD operations
-* 🎨 Developing responsive interfaces with React and Tailwind CSS
-* 🧪 Testing APIs using Postman
-* ☁️ Working with file uploads, payment gateways, and external APIs
-* 🤖 Exploring AI-integrated applications using **Gemini and OpenAI**
-
-Currently, I'm looking for opportunities where I can contribute to real-world products, strengthen my engineering skills, and grow as a full-stack developer.
+  Name    : Mashroof PP
+  Handle  : mashroofmashru
+  Uni     : SES College, Sreekandapuram · Kannur University
+  Focus   : MERN Stack · Full-Stack Web · Backend · APIs
+  Base    : Kannur, Kerala, India
+  Status  : ▰▰▰▰▰▰▰▰▰▱  Learning every day
+  Hiring  : OPEN — internships & fresher roles ✅
+```
 
 ---
 
-## 💼 Experience
+## `> tech.stack`
 
-### Software Engineer — SOS - School Of Skills
+**Languages**
 
-**MERN Stack Intern**
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.mashroof.me/#skills)
+[![HTML](https://skillicons.dev/icons?i=html)](https://www.mashroof.me/#skills)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.mashroof.me/#skills)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.mashroof.me/#skills)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.mashroof.me/#skills)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://www.mashroof.me/#skills)
+[![C](https://skillicons.dev/icons?i=c)](https://www.mashroof.me/#skills)
 
-* Developed web applications using **MongoDB, Express.js, React.js, and Node.js**.
-* Built responsive frontend components and backend APIs.
-* Implemented **CRUD operations, authentication, and database integration**.
-* Collaborated with the development team to debug issues and improve application functionality.
+**Frontend**
 
----
+[![React](https://skillicons.dev/icons?i=react)](https://www.mashroof.me/#skills)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://www.mashroof.me/#skills)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://www.mashroof.me/#skills)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://www.mashroof.me/#skills)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://www.mashroof.me/#skills)
+[![MUI](https://skillicons.dev/icons?i=mui)](https://www.mashroof.me/#skills)
 
-## 🛠️ Tech Stack
+**Backend & Database**
 
-### Frontend
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://www.mashroof.me/#skills)
+[![Express](https://skillicons.dev/icons?i=express)](https://www.mashroof.me/#skills)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mashroof.me/#skills)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.mashroof.me/#skills)
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-Basic-593D88?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
-</p>
+**Tools**
 
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend_Development-333333?style=flat-square"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Basic-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
-### APIs & Integrations
-
-<p>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razorpay-3395FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Multer-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-</p>
+[![Git](https://skillicons.dev/icons?i=git)](https://www.mashroof.me/#skills)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://www.mashroof.me/#skills)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.mashroof.me/#skills)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://www.mashroof.me/#skills)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.mashroof.me/#skills)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://www.mashroof.me/#skills)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.mashroof.me/#skills)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://www.mashroof.me/#skills)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://www.mashroof.me/#skills)
 
 ---
 
-## 🚀 Featured Projects
+## `> github.stats`
 
-### 🎓 EduSphere — Online Learning Management Platform
+<div align="center">
 
-A full-stack learning management platform for managing users, courses, enrollments, and learning content.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mashroofmashru&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashroofmashru&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
 
-**Highlights**
+</div>
 
-* 🔐 JWT-based authentication with role-based access
-* 🏗️ MVC architecture with clear separation of models, controllers, and routes
-* 🔌 RESTful APIs for authentication, course management, and content access
-* 🗄️ Structured MongoDB schemas for users, courses, and enrollments
-* ✏️ CRUD operations for course and user management
-* ☁️ Cloudinary integration for media management
-* 🛡️ Input validation and centralized error handling
-* 🧪 API testing with Postman
-* 📱 Responsive UI built with React and Tailwind CSS
+<div align="center">
 
-**Tech Stack**
+[![GitHub Streak](https://streak-stats.demolab.com?user=mashroofmashru&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
-
-🔗 **[GitHub Repository →](https://github.com/mashroofmashru/Edusphere)**
+</div>
 
 ---
 
-### 🚗 Carverse — Automotive Marketplace
+## `> pinned.projects`
 
-A full-stack automotive marketplace for browsing, listing, and managing car listings.
-
-**Highlights**
-
-* 🔐 JWT authentication and authorization
-* 🚘 Car listing and management
-* 🔎 Advanced search and filtering
-* 🗄️ MongoDB schemas for users and car listings
-* ⚡ Efficient database queries with indexing
-* 📸 Image uploads using Multer
-* 🔌 RESTful backend APIs
-* 🛡️ Input validation and standardized API responses
-* 🧪 Backend API testing with Postman
-
-**Tech Stack**
-
-`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT` `Multer`
-
-🔗 **[GitHub Repository →](https://github.com/mashroofmashru/Carverse)**
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**EduSphere**](https://github.com/mashroofmashru/EduSphere) | E-learning platform · Stripe payments, Gemini AI doubt-clearing, PDF certificates, instructor analytics | `MERN` `Stripe` `Cloudinary` |
+| [**Carverse**](https://github.com/mashroofmashru/Carverse) | Automotive marketplace · JWT auth, advanced search, seller listings | `MERN` `JWT` |
+| [**PortfolioBuilder**](https://github.com/mashroofmashru/PortfolioBuilder) | Generates developer portfolios from any GitHub username via REST API | `React` `Three.js` |
+| [**Aakiyo-website**](https://github.com/mashroofmashru/Aakiyo-website) | High-performance web platform for Aakiyo, the agency's official website | `TypeScript` `Nextjs`|
+| [**Portfolio**](https://mashroof.me) | Personal portfolio website | `Web` `React` |
 
 ---
 
-### 🌐 Portfolio Builder
+## `> currently.working_on`
 
-A GitHub-powered portfolio generator that creates a professional developer portfolio using a GitHub username.
-
-**Highlights**
-
-* 🐙 GitHub API integration
-* 📂 Automatically fetches GitHub repositories
-* 📊 Analyzes and highlights programming languages
-* ⚡ Generates a portfolio instantly
-* 🔗 Creates a shareable portfolio
-* 🎨 Clean and responsive design
-* 🚀 No setup or sign-in required
-
-**Tech Stack**
-
-`React` `Vite` `GitHub API`
-
-🔗 **[GitHub Repository →](https://github.com/mashroofmashru/PortfolioBuilder)**
+```javascript
+const current = {
+  learning : ["Backend architecture", "AI-assisted development", "AWS"],
+  building : "Course management platform — weekly-gated learning, MERN",
+  goal     : "Land a full-stack / backend internship or fresher role",
+};
+```
 
 ---
 
-## 📚 Core Concepts
+## `> certifications`
 
-* RESTful API Design
-* MVC Architecture
-* JWT Authentication & Authorization
-* CRUD Operations
-* Database Design
-* Input Validation
-* Centralized Error Handling
-* Standardized API Responses
-* Responsive Web Design
-* Cross-browser Compatibility
-* Git & GitHub Workflow
+- [Software Engineer Intern Certificate](https://www.hackerrank.com/certificates/6e0679fbcdb5) · Hacker Rank
+- [Claude Code in Action](https://verify.skilljar.com/c/j8s4ox2xqazv) · Anthropic
+- [Claude Code 101](https://verify.skilljar.com/c/39r9obsza3t7) · Anthropic
+- [Introduction to Generative AI](https://www.skills.google/public_profiles/5d35a19c-38c4-4f0b-9e30-10c06ad2a814/badges/25845863?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) · Google
+- [Gemini for End-to-End SDLC](https://www.skills.google/public_profiles/5d35a19c-38c4-4f0b-9e30-10c06ad2a814/badges/25947588?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) · Google
 
 ---
 
-## 📜 Certifications
+## `> activity.graph`
 
-* **Claude Code in Action** — Anthropic
-* **Claude Code 101** — Anthropic
-* **Foundations of Prompt Engineering** — AWS Skill Builders Community
-* **Introduction to Generative AI** — Google
-* **Gemini for End-to-End SDLC** — Google
+<div align="center">
 
----
+[![Mashroof PP's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mashroofmashru&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**
-SES College, Sreekandapuram — Kannur University
-**Jun 2023 – Mar 2026**
-
-**Higher Secondary Education — Bio Science**
-Government Higher Secondary School, Koyyam
-**Jun 2021 – Jan 2023**
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## `> contact.init()`
 
-<p align="center">
+```javascript
+const contact = {
+  portfolio : "mashroof.me",
+  email     : "mashroofvlk@gmail.com",
+  linkedin  : "linkedin.com/in/mashroof-mashru",
+  status    : "Open to internships & opportunities 🟢",
+};
 
-<a href="https://mashroof.me">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+console.log("Let's build something cool together!");
+```
 
-<a href="https://linkedin.com/in/mashroof-mashru">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<div align="center">
 
-<a href="mailto:mashroofvlk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[![Website](https://img.shields.io/badge/WebSite-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://mashroof.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mashroof%20PP-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=161b22)](https://linkedin.com/in/mashroof-mashru)
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Building, learning, and shipping — one project at a time 🚀</i>
-</p>
+<div align="center">
+  <sub><code>// turning ideas into clean, functional software · one commit at a time</code></sub>
+</div>
