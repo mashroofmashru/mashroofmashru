@@ -92,9 +92,9 @@ visitor@github:~$ cat ./about_me.txt
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**EduSphere**](https://github.com/mashroofmashru/EduSphere) | E-learning platform · Stripe payments, Gemini AI doubt-clearing, PDF certificates, instructor analytics | `MERN` `Stripe` `Cloudinary` |
-| [**Carverse**](https://github.com/mashroofmashru/Carverse) | Automotive marketplace · JWT auth, advanced search, seller listings | `MERN` `JWT` |
-| [**PortfolioBuilder**](https://github.com/mashroofmashru/PortfolioBuilder) | Generates developer portfolios from any GitHub username via REST API | `React` `Three.js` |
+| [**EduSphere**](https://github.com/mashroofmashru/EduSphere) | E-learning platform · Stripe payments, Gemini AI doubt-clearing, PDF certificates, instructor analytics | `MERN` `Stripe` `Cloudinary` `JWT` |
+| [**Carverse**](https://github.com/mashroofmashru/Carverse) | Automotive marketplace · JWT auth, advanced search, seller listings | `MERN` `JWT` `Multer`|
+| [**PortfolioBuilder**](https://github.com/mashroofmashru/PortfolioBuilder) | Generates developer portfolios from any GitHub username via REST API | `React` `Vite` `GitHub API` |
 | [**Aakiyo-website**](https://github.com/mashroofmashru/Aakiyo-website) | High-performance web platform for Aakiyo, the agency's official website | `TypeScript` `Nextjs`|
 | [**Portfolio**](https://mashroof.me) | Personal portfolio website | `Web` `React` |
 
